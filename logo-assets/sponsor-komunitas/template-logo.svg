@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="template-logo.svg"
-   id="svg21"
-   version="1.1"
-   viewBox="0 0 47.625 47.625"
+   width="180"
    height="180"
-   width="180">
+   viewBox="0 0 47.625 47.625"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="template-logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata25">
     <rdf:RDF>
@@ -27,50 +27,50 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="svg21"
-     inkscape:window-maximized="1"
-     inkscape:window-y="30"
-     inkscape:window-x="1920"
-     inkscape:cy="131.96829"
-     inkscape:cx="-37.234738"
-     inkscape:zoom="2.5455844"
-     showgrid="false"
-     id="namedview23"
-     inkscape:window-height="1042"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#cacaca"
+     inkscape:pagecheckerboard="false"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="false" />
+     pagecolor="#cacaca"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1042"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="3.6"
+     inkscape:cx="31.821847"
+     inkscape:cy="133.85646"
+     inkscape:window-x="1920"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg21" />
   <defs
      id="defs7">
     <linearGradient
        id="a">
       <stop
-         id="stop2"
+         offset="0"
          stop-color="#2f90fb"
-         offset="0" />
+         id="stop2" />
       <stop
-         id="stop4"
+         offset="1"
          stop-color="#1d7ee9"
-         offset="1" />
+         id="stop4" />
     </linearGradient>
   </defs>
   <rect
-     ry="0"
-     rx="0"
-     y="-0.0019371717"
-     x="0.0028571442"
-     height="47.62532"
-     width="47.62532"
-     fill="none"
-     paint-order="markers fill stroke"
+     style="fill:none;stroke-width:0.29867;stroke:none"
      id="rect9"
-     style="fill:none;stroke-width:0.29867;stroke:none" />
+     paint-order="markers fill stroke"
+     fill="none"
+     width="47.62532"
+     height="47.62532"
+     x="0.0028571442"
+     y="-0.0019371717"
+     rx="0"
+     ry="0" />
 </svg>
