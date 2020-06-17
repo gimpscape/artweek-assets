@@ -154,10 +154,32 @@
           <param name="transformation">
             <composite type="transformation">
               <offset>
-                <vector>
-                  <x>0.0000000000</x>
-                  <y>0.0000000000</y>
-                </vector>
+                <animated type="vector">
+                  <waypoint time="5.16666651s" before="clamped" after="clamped">
+                    <vector guid="A9ED8FF2940508CAFA80FC152866216D">
+                      <x>0.0000000109</x>
+                      <y>0.2500000000</y>
+                    </vector>
+                  </waypoint>
+                  <waypoint time="5.25s" before="clamped" after="clamped">
+                    <vector guid="403E877D60595EF11677B63F8B4902D4">
+                      <x>-0.0000000109</x>
+                      <y>-0.2500000000</y>
+                    </vector>
+                  </waypoint>
+                  <waypoint time="5.375s" before="clamped" after="clamped">
+                    <vector guid="EE8AEEF3661F16200FD49C9D96A1ACBA">
+                      <x>0.0000000000</x>
+                      <y>0.0000000000</y>
+                    </vector>
+                  </waypoint>
+                  <waypoint time="5.5s" before="clamped" after="clamped">
+                    <vector guid="C7C773AFB6A3418F03635AAFCFA9D3F0">
+                      <x>0.0000000000</x>
+                      <y>0.0000000000</y>
+                    </vector>
+                  </waypoint>
+                </animated>
               </offset>
               <angle>
                 <angle value="0.000000"/>
@@ -203,7 +225,7 @@
                                 <y>-0.7500000000</y>
                               </vector>
                             </waypoint>
-                            <waypoint time="5.25s" before="clamped" after="clamped">
+                            <waypoint time="5.16666651s" before="clamped" after="clamped">
                               <vector guid="B4BC67A15AAD2B92F62E283194F94819">
                                 <x>-0.2090400606</x>
                                 <y>2.6313726902</y>
@@ -238,7 +260,7 @@
                                 <y>1.3053085804</y>
                               </vector>
                             </waypoint>
-                            <waypoint time="5.25s" before="clamped" after="clamped">
+                            <waypoint time="5.16666651s" before="clamped" after="clamped">
                               <vector guid="950314947581A58427CB1F829C30249E">
                                 <x>1.0000000000</x>
                                 <y>1.0000000000</y>
