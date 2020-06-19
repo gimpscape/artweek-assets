@@ -17919,8 +17919,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="491.35384"
-     inkscape:cx="208.12167"
+     inkscape:cy="532.39135"
+     inkscape:cx="372.13024"
      inkscape:zoom="0.50000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -20189,17 +20189,17 @@
                id="g19043">
               <text
                  id="text7148"
-                 y="186.27612"
+                 y="183.31599"
                  x="-281.81763"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4015px;line-height:9.11406px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;vector-effect:none;fill:#543e96;fill-opacity:1;stroke:none;stroke-width:0.737116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4015px;line-height:10.9323px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;vector-effect:none;fill:#543e96;fill-opacity:1;stroke:none;stroke-width:0.737116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                  xml:space="preserve"><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#543e96;fill-opacity:1;stroke:none;stroke-width:0.737116"
-                   y="186.27612"
+                   y="183.31599"
                    x="-281.81763"
+                   id="tspan5620"
                    sodipodi:role="line"
-                   id="tspan19036">%VAR_RUANG%</tspan><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.9016px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#543e96;fill-opacity:1;stroke:none;stroke-width:0.737116">%VAR_RUANG%</tspan><tspan
                    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#543e96;fill-opacity:1;stroke:none;stroke-width:0.737116"
-                   y="195.39018"
+                   y="194.62328"
                    x="-281.81763"
                    sodipodi:role="line"
                    id="tspan5601">%VAR_TANGGAL%</tspan></text>
@@ -22534,17 +22534,17 @@
                  xml:space="preserve"
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4015px;line-height:9.11406px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;vector-effect:none;fill:#543e96;fill-opacity:1;stroke:none;stroke-width:0.737116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                  x="-281.81763"
-                 y="186.27612"
+                 y="184.22511"
                  id="text5546"><tspan
                    id="tspan5542"
                    sodipodi:role="line"
                    x="-281.81763"
-                   y="186.27612"
-                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#543e96;fill-opacity:1;stroke:none;stroke-width:0.737116">%VAR_RUANG%</tspan><tspan
+                   y="184.22511"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.9016px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#543e96;fill-opacity:1;stroke:none;stroke-width:0.737116">%VAR_RUANG%</tspan><tspan
                    id="tspan5544"
                    sodipodi:role="line"
                    x="-281.81763"
-                   y="195.39018"
+                   y="193.71414"
                    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#543e96;fill-opacity:1;stroke:none;stroke-width:0.737116">%VAR_TANGGAL%</tspan></text>
               <text
                  id="text5550"
